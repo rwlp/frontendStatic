@@ -1,0 +1,27 @@
+{
+  "id": 123,
+  "nome": "Nome da Atracao",
+  "descricao": "Descricao da Atracao cultural",
+  "map": "Informcacoes de Mapa e coordenadas",
+  "importancia": "Grau de importancia",
+  "functioning" : "Nao sei o que eh",
+  "category": 1,
+  "contact": {
+    "phone1": "32 999132-2123",
+    "phone2": null,
+    "email": "emailcontanto@emal.com",
+    "instagram": "https://instagram/paginaatracao",
+    "facebook": "https://facebook/contadaatracao",
+    "whatsapp": null,
+    "website": null,
+    "endereco": {
+      "Nome Publico": "Nome do Local",
+      "rua": "R. Nome da Rua",
+      "bairro": "Nome do Bairro",
+      "CEP": "CEP-3002",
+      "cidade": "Cidade",
+      "estado": "Estado",
+      "Pais": "Nome Pais"
+    }
+  }
+}
