@@ -4,11 +4,12 @@ function App() {
 
   return (
     <div
-      className='w-3 h-3 bg-black'>
+      className='w-full h-full bg-black'>
         <h1>Exibindo dados do Json</h1>
         {
           JSON.stringify(dados, null, 2)
         }
+        <img src='fotos/qrcode.png' />
     </div>
   )
 }
